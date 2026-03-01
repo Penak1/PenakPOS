@@ -3,9 +3,6 @@
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a6b,50:2E5B9A,100:87CEEB&height=220&section=header&text=PenakPOS&fontSize=90&fontColor=ffffff&animation=twinkling&desc=✨%20Kelola%20Bisnis%20Jadi%20Lebih%20Penak%20✨&descSize=22&descAlignY=78&descColor=e8f4ff" width="100%"/>
 
-<!-- Logo Banner -->
-<img src="PenakPOS_banner.png" width="80%" style="border-radius:20px; margin: 20px 0;"/>
-
 <!-- Animated Typing Text -->
 <a href="https://github.com/Penak1/PenakPOS">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2800&pause=1000&color=2E5B9A&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Aplikasi+Kasir+Modern+%26+Lengkap;Kelola+Bisnis+dengan+Mudah+%26+Cepat;Aman%2C+Handal%2C+dan+Terpercaya;Point+of+Sale+untuk+Semua+Jenis+Usaha" alt="Typing SVG"/>
