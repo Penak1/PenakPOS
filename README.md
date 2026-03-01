@@ -8,7 +8,7 @@
 
 <!-- Animated Typing Text -->
 <a href="https://github.com/Penak1/PenakPOS">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=2E5B9A&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=🏪+Aplikasi+Kasir+Modern+%26+Lengkap;📊+Kelola+Bisnis+dengan+Mudah;🔐+Aman%2C+Cepat%2C+dan+Terpercaya" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2800&pause=1000&color=2E5B9A&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Aplikasi+Kasir+Modern+%26+Lengkap;Kelola+Bisnis+dengan+Mudah+%26+Cepat;Aman%2C+Handal%2C+dan+Terpercaya;Point+of+Sale+untuk+Semua+Jenis+Usaha" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -16,8 +16,6 @@
 <!-- Stats Badges Row 1 -->
 
 ![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-Framework-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-Backend-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Version](https://img.shields.io/badge/Version-1.25.0-blue?style=for-the-badge&logo=github)
 
 <!-- Stats Badges Row 2 -->
@@ -51,8 +49,8 @@
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/64/cloud-sync.png"/>
-<br/><b>Backup Otomatis</b>
-<br/>Data aman di cloud lokal, tanpa biaya tambahan
+<br/><b>Cloud Backup Otomatis</b>
+<br/>Data aman di cloud, tidak pernah hilang
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/64/combo-chart.png"/>
@@ -79,7 +77,7 @@
 - ⚡ Proses transaksi super cepat
 - 🎤 Perintah suara untuk input produk
 - 📷 QR Code & Barcode Scanner terintegrasi
-- 💳 Multi-payment
+- 💳 Multi-payment: Cash, QRIS, Debit, Transfer
 - 🎟️ Sistem diskon, promo & voucher
 - 📲 Kirim struk digital via WhatsApp
 
@@ -165,14 +163,15 @@
 |       🕐 Durasi        | Terbatas  | **Unlimited** |
 |      🛒 Transaksi      | Terbatas  | **Unlimited** |
 |       📦 Produk        | Terbatas  | **Unlimited** |
-|   📊 Laporan Lengkap   | Terbatas  |      ✅       |
-|    🎤 Voice Command    | Terbatas  |      ✅       |
-|  🆘 Support Priority   | Terbatas  |      ✅       |
-| 🔄 Update Seumur Hidup | Terbatas  |      ✅       |
+|    ☁️ Cloud Backup     |    ❌     |      ✅       |
+|   📊 Laporan Lengkap   |    ❌     |      ✅       |
+|    🎤 Voice Command    |    ❌     |      ✅       |
+|  🆘 Support Priority   |    ❌     |      ✅       |
+| 🔄 Update Seumur Hidup |    ❌     |      ✅       |
 
 <br/>
 
-[![Beli Premium](https://img.shields.io/badge/🛒%20Beli%20Premium%20Sekarang-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285801621989?text=Halo%20PenakPOS%2C%20saya%20ingin%20membeli%20lisensi%20Premium)
+[![Beli Premium](https://img.shields.io/badge/🛒%20Beli%20Premium%20Sekarang-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628996654500?text=Halo%20PenakPOS%2C%20saya%20ingin%20membeli%20lisensi%20Premium)
 
 </div>
 
@@ -211,9 +210,9 @@ Jika PenakPOS membantu bisnis Anda, mohon berikan bintang dan rekomendasikan ke 
 
 <br/>
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Sekarang-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285801621989)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Sekarang-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628996654500)
 [![GitHub](https://img.shields.io/badge/GitHub-Penak1%2FPenakPOS-181717?style=for-the-badge&logo=github)](https://github.com/Penak1/PenakPOS)
-[![Lynk.id](https://img.shields.io/badge/Lynk.id-PenakPOS-FF6B35?style=for-the-badge&logo=linktree&logoColor=white)](https://lynk.id/penakpos)
+[![Lynk.id](https://img.shields.io/badge/Lynk.id-PenakPOS-FF6B35?style=for-the-badge&logo=linktree&logoColor=white)](https://lynk.id/penakofficial)
 
 <br/>
 
@@ -222,8 +221,8 @@ Jika PenakPOS membantu bisnis Anda, mohon berikan bintang dan rekomendasikan ke 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,50:2E5B9A,100:1a3a6b&height=120&section=footer" width="100%"/>
 
 _© 2026 PenakPOS. All rights reserved._
-_⚠️ Proyek ini bersifat PRIVAT._
+_⚠️ Proyek ini bersifat PRIVAT. Dilarang menyalin atau mendistribusikan tanpa izin._
 
-Made with ❤️ by **PenakPOS Team**
+Made with ❤️ by **PenakPOS Team** &nbsp;•&nbsp; Powered by Flutter & Firebase
 
 </div>
