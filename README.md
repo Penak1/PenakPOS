@@ -220,6 +220,6 @@ Jika PenakPOS membantu bisnis Anda, mohon berikan bintang dan rekomendasikan ke 
 _© 2026 PenakPOS. All rights reserved._
 _⚠️ Proyek ini bersifat PRIVAT. Dilarang menyalin atau mendistribusikan tanpa izin._
 
-Made with ❤️ by **PenakPOS Team** &nbsp;•&nbsp; Powered by Flutter & Firebase
+Made with ❤️ by **PenakPOS Team**
 
 </div>
