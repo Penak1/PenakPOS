@@ -195,7 +195,9 @@
 
 Jika PenakPOS membantu bisnis Anda, mohon berikan bintang dan rekomendasikan ke teman-teman!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Penak1/PenakPOS&type=Date)](https://star-history.com/#Penak1/PenakPOS&Date)
+## Star History
+
+[![Star History Chart](https://api.star-history.com/image?repos=Penak1/PenakPOS&type=date&logscale&legend=top-left)](https://www.star-history.com/?repos=Penak1%2FPenakPOS&type=date&legend=top-left)
 
 </div>
 
