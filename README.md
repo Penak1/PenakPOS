@@ -99,8 +99,10 @@
 | **Masa Aktif** | Terbatas | **Selamanya** |
 | **Kapasitas Transaksi** | Maks. 50/bln | **Tanpa Batas** |
 | **Kapasitas Produk** | Terbatas | **Tanpa Batas** |
-| **Cloud Backup** | ❌ | ✅ |
+| **Backup Share** | ❌ | ✅ |
+| **Struk Share** | ❌ | ✅ |
 | **Voice Command** | ❌ | ✅ |
+| **Laporan Lengkap** | ❌ | ✅ |
 | **Priority Support** | ❌ | ✅ |
 | **Update Fitur** | ❌ | ✅ |
 
