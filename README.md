@@ -179,7 +179,7 @@
 ## 📱 Kompatibilitas
 
 </div>
-
+<br/>
 |   Spesifikasi    |   Minimal    | Rekomendasi |
 | :--------------: | :----------: | :---------: |
 |  📱 **Android**  | 5.0 (API 21) |     11+     |
@@ -188,23 +188,29 @@
 | 📶 **Bluetooth** |    BT 4.0    |   BT 5.0    |
 
 ---
-
+<br/>
 <div align="center">
 
 ## ⭐ Dukung Proyek Ini
 
-Jika PenakPOS membantu bisnis Anda, mohon berikan bintang dan rekomendasikan ke teman-teman!
+Jika **PenakPOS** membantu bisnis Anda, mohon berikan bintang sebagai bentuk dukungan! 
 
-## Star History
+[![Star PenakPOS](https://img.shields.io/github/stars/Penak1/PenakPOS?style=social)](https://github.com/Penak1/PenakPOS/stargazers)
+[![Fork PenakPOS](https://img.shields.io/github/forks/Penak1/PenakPOS?style=social)](https://github.com/Penak1/PenakPOS/network/members)
 
-<a href="https://www.star-history.com/?repos=Penak1%2FPenakPOS&type=date&logscale=&legend=top-left">
+> **Tips:** Klik tombol **Star** di pojok kanan atas halaman ini untuk menyimpan proyek ini di profil Anda.
+
+---
+
+## 📈 Star History
+
+<a href="https://star-history.com/#Penak1/PenakPOS&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=Penak1/PenakPOS&type=date&theme=dark&logscale&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=Penak1/PenakPOS&type=date&logscale&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=Penak1/PenakPOS&type=date&logscale&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=Penak1/PenakPOS&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=Penak1/PenakPOS&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=Penak1/PenakPOS&type=Date" />
  </picture>
 </a>
-
 ## 📊 Statistik Repositori
 
 | Kategori | Status |
