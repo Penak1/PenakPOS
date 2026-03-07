@@ -1,82 +1,50 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a6b,50:2E5B9A,100:87CEEB&height=220&section=header&text=PenakPOS&fontSize=90&fontColor=ffffff&animation=twinkling&desc=✨%20Kelola%20Bisnis%20Jadi%20Lebih%20Penak%20✨&descSize=22&descAlignY=78&descColor=e8f4ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a6b,50:2E5B9A,100:87CEEB&height=220&section=header&text=PenakPOS&fontSize=90&fontColor=ffffff&animation=twinkling&desc=✨%20Solusi%20Kasir%20Digital%20Paling%20Penak%20✨&descSize=22&descAlignY=78&descColor=e8f4ff" width="100%"/>
 
-<!-- Animated Typing Text -->
 <a href="https://github.com/Penak1/PenakPOS">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2800&pause=1000&color=2E5B9A&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Aplikasi+Kasir+Modern+%26+Lengkap;Kelola+Bisnis+dengan+Mudah+%26+Cepat;Aman%2C+Handal%2C+dan+Terpercaya;Point+of+Sale+untuk+Semua+Jenis+Usaha" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2800&pause=1000&color=2E5B9A&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Aplikasi+Kasir+Modern+%26+Lengkap;Kelola+Bisnis+dengan+Mudah+%26+Cepat;Aman%2C+Handal%2C+dan+Terpercaya;Point+of+Sale+untuk+Semua+Jenis+Usaha" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<!-- Stats Badges Row 1 -->
-
 ![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Version](https://img.shields.io/badge/Version-1.25.0-blue?style=for-the-badge&logo=github)
-
-<!-- Stats Badges Row 2 -->
-
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=checkmark)
+<br/>
 ![License](https://img.shields.io/badge/License-Premium-gold?style=for-the-badge&logo=star)
 ![Security](https://img.shields.io/badge/Security-AES--256-red?style=for-the-badge&logo=shield)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=checkmark)
 ![Made with Love](https://img.shields.io/badge/Made%20with-❤️-ff69b4?style=for-the-badge)
 
 </div>
 
 ---
 
+## 🌟 Mengapa Memilih PenakPOS?
+
 <div align="center">
 
-## 🌟 Mengapa PenakPOS?
+| 🛒 **Kasir Digital** | 🛡️ **Keamanan Tinggi** | ☁️ **Cloud Sync** | 📈 **Analitik Bisnis** |
+| :--- | :--- | :--- | :--- |
+| Transaksi kilat dengan antarmuka yang intuitif dan mudah dipelajari. | Proteksi aset 24/7 dengan enkripsi data standar industri. | Backup otomatis ke cloud, pastikan data Anda selalu tersedia. | Laporan visual mendalam yang dapat diekspor ke PDF & Excel. |
 
 </div>
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/64/cash-register.png"/>
-<br/><b>Kasir Digital</b>
-<br/>Transaksi kilat, antarmuka intuitif untuk siapapun
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/64/shield.png"/>
-<br/><b>Keamanan Tingkat Tinggi</b>
-<br/>Enkripsi militer, proteksi aset bisnis Anda 24/7
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/64/cloud-sync.png"/>
-<br/><b>Cloud Backup Otomatis</b>
-<br/>Data aman di cloud, tidak pernah hilang
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/64/combo-chart.png"/>
-<br/><b>Laporan Mendalam</b>
-<br/>Analitik bisnis visual, export PDF & Excel
-</td>
-</tr>
-</table>
 
 ---
 
-<div align="center">
-
 ## 🚀 Fitur Unggulan
-
-</div>
 
 <details>
 <summary><b>🛒 Point of Sale — Transaksi Cepat & Cerdas</b></summary>
 <br/>
 
-> PenakPOS menghadirkan pengalaman kasir digital yang tidak tertandingi. Dari scan produk, multi-metode pembayaran, hingga struk digital langsung ke WhatsApp pelanggan — semuanya dalam satu ketukan.
+> PenakPOS menghadirkan pengalaman kasir digital yang modern. Mulai dari scan produk hingga pengiriman struk digital via WhatsApp dalam hitungan detik.
 
-- ⚡ Proses transaksi super cepat
-- 🎤 Perintah suara untuk input produk
-- 📷 QR Code & Barcode Scanner terintegrasi
-- 💳 Multi-payment: Cash, QRIS, Debit, Transfer
-- 🎟️ Sistem diskon, promo & voucher
-- 📲 Kirim struk digital via WhatsApp
+* ⚡ **Transaksi Kilat:** Alur kerja yang dioptimasi untuk kecepatan.
+* 🎤 **Voice Command:** Input produk praktis melalui perintah suara.
+* 📷 **Integrated Scanner:** Mendukung QR Code & Barcode secara native.
+* 💳 **Multi-Payment:** Dukungan Cash, QRIS, Debit, dan Transfer Bank.
+* 🎟️ **Marketing Tools:** Kelola sistem diskon, promo, dan voucher loyalitas.
 
 </details>
 
@@ -84,13 +52,10 @@
 <summary><b>📦 Manajemen Produk & Inventori</b></summary>
 <br/>
 
-> Kelola ribuan produk dengan mudah. Sistem inventori real-time memastikan stok selalu terpantau, dengan notifikasi cerdas saat stok menipis.
-
-- 🏷️ Kategori, varian & add-ons produk
-- 📊 Tracking HPP vs Harga Jual (margin profit)
-- 🔔 Alert stok menipis otomatis
-- 🏪 Manajemen supplier & purchase order
-- 📤 Export daftar produk ke Excel
+* 🏷️ **Katalog Terstruktur:** Kelola kategori, varian, hingga add-ons.
+* 📊 **Margin Monitor:** Pantau HPP vs Harga Jual secara real-time.
+* 🔔 **Smart Inventory:** Notifikasi otomatis saat stok mendekati batas minimum.
+* 🏪 **Supplier Management:** Pantau histori pembelian dan *Purchase Order*.
 
 </details>
 
@@ -98,141 +63,103 @@
 <summary><b>🖨️ Printing & Struk Profesional</b></summary>
 <br/>
 
-> Kompatibel dengan thermal printer Bluetooth 58mm & 80mm. Cetak struk kasir, laporan shift, hingga pesanan dapur secara terpisah.
-
-- 🖨️ Bluetooth Thermal Printer (58mm & 80mm)
-- 👨‍🍳 Printer dapur terpisah (Kitchen Display)
-- 🎨 Custom struk dengan logo & desain sendiri
-- 📋 Laporan akhir shift otomatis
+* 🖨️ **Universal Printer:** Support Thermal Bluetooth 58mm & 80mm.
+* 👨‍🍳 **Kitchen Display System:** Pemisahan cetak struk kasir dan pesanan dapur.
+* 🎨 **Custom Branding:** Tambahkan logo dan pesan khusus pada struk Anda.
 
 </details>
 
 <details>
-<summary><b>📊 Laporan & Analitik Bisnis</b></summary>
+<summary><b>🔐 Keamanan & Proteksi Data</b></summary>
 <br/>
 
-> Dashboard analitik visual yang powerful. Pantau performa bisnis Anda dari mana saja, kapan saja.
-
-- 📈 Grafik interaktif penjualan harian/mingguan/bulanan
-- 💰 Analisis profit dan margin
-- 📄 Export laporan PDF profesional
-- 📊 Export data Excel lengkap
-- 👥 Laporan performa kasir per shift
+* 🔑 **Biometric Login:** Keamanan akses via Fingerprint atau Face ID.
+* 🛡️ **Military-Grade Encryption:** Data terenkripsi aman di perangkat maupun cloud.
+* 🔒 **Anti-Fraud:** Sistem deteksi anti-root dan anti-emulator untuk mencegah kecurangan.
 
 </details>
 
 <details>
-<summary><b>🔐 Keamanan & Proteksi</b></summary>
+<summary><b>🍽️ Modul Restoran & Kafe (F&B)</b></summary>
 <br/>
 
-> Keamanan berlapis untuk melindungi bisnis Anda dari ancaman digital.
-
-- 🔑 PIN & Biometric (Fingerprint/Face ID)
-- 🛡️ Enkripsi data tingkat militer
-- 📱 Sistem lisensi berbasis device
-- 🔒 Anti-root & anti-emulator detection
-- ☁️ Backup terenkripsi format `.pnk`
-
-</details>
-
-<details>
-<summary><b>🍽️ Fitur Restoran & Kafe</b></summary>
-<br/>
-
-> Solusi lengkap untuk bisnis F&B dengan manajemen meja dan order type yang fleksibel.
-
-- 🗺️ Denah meja visual & interaktif
-- 🥡 Order type: Dine In, Take Away, Delivery
-- 👨‍🍳 Kitchen print & display sistem
+* 🗺️ **Visual Table Map:** Layout denah meja yang interaktif.
+* 🥡 **Order Management:** Kelola Dine In, Take Away, dan Delivery dengan rapi.
 
 </details>
 
 ---
-
-<div align="center">
 
 ## 💎 Paket Lisensi
 
+<div align="center">
+
+| Fitur Utama | Trial Plan | Premium Plan |
+| :--- | :---: | :---: |
+| **Masa Aktif** | Terbatas | **Selamanya** |
+| **Kapasitas Transaksi** | Maks. 50/bln | **Tanpa Batas** |
+| **Kapasitas Produk** | Terbatas | **Tanpa Batas** |
+| **Cloud Backup** | ❌ | ✅ |
+| **Voice Command** | ❌ | ✅ |
+| **Priority Support** | ❌ | ✅ |
+| **Update Fitur** | ❌ | ✅ |
+
 <br/>
 
-|                        | **Trial** |  **Premium**  |
-| :--------------------: | :-------: | :-----------: |
-|       🕐 Durasi        | Terbatas  | **Unlimited** |
-|      🛒 Transaksi      | Terbatas  | **Unlimited** |
-|       📦 Produk        | Terbatas  | **Unlimited** |
-|    ☁️ Cloud Backup     |    ❌     |      ✅       |
-|   📊 Laporan Lengkap   |    ❌     |      ✅       |
-|    🎤 Voice Command    |    ❌     |      ✅       |
-|  🆘 Support Priority   |    ❌     |      ✅       |
-| 🔄 Update Seumur Hidup |    ❌     |      ✅       |
-
-<br/>
-
-[![Beli Premium](https://img.shields.io/badge/🛒%20Beli%20Premium%20Sekarang-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628996654500?text=Halo%20PenakPOS%2C%20saya%20ingin%20membeli%20lisensi%20Premium)
+[![Beli Premium Sekarang](https://img.shields.io/badge/🛒%20UPGRADE%20KE%20PREMIUM-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628996654500?text=Halo%20PenakPOS%2C%20saya%20ingin%20membeli%20lisensi%20Premium)
 
 </div>
 
 ---
 
+## 📱 Spesifikasi Minimum
+
 <div align="center">
 
-## 📱 Kompatibilitas
+| Komponen | Minimal | Rekomendasi |
+| :--- | :--- | :--- |
+| **Android OS** | 5.0 (Lollipop) | 11.0 or Higher |
+| **RAM** | 2 GB | 4 GB |
+| **Storage** | 100 MB | 500 MB+ |
+| **Bluetooth** | v4.0 | v5.0 |
 
 </div>
-<br/>
-|   Spesifikasi    |   Minimal    | Rekomendasi |
-| :--------------: | :----------: | :---------: |
-|  📱 **Android**  | 5.0 (API 21) |     11+     |
-|    💾 **RAM**    |     2 GB     |   3-4 GB    |
-|  💿 **Storage**  |    100 MB    |   200 MB+   |
-| 📶 **Bluetooth** |    BT 4.0    |   BT 5.0    |
 
 ---
-<br/>
+
+## 📈 Statistik & Performa
+
 <div align="center">
 
-## ⭐ Dukung Proyek Ini
-
-Jika **PenakPOS** membantu bisnis Anda, mohon berikan bintang sebagai bentuk dukungan! 
-
-[![Star PenakPOS](https://img.shields.io/github/stars/Penak1/PenakPOS?style=social)](https://github.com/Penak1/PenakPOS/stargazers)
-[![Fork PenakPOS](https://img.shields.io/github/forks/Penak1/PenakPOS?style=social)](https://github.com/Penak1/PenakPOS/network/members)
-
-> **Tips:** Klik tombol **Star** di pojok kanan atas halaman ini untuk menyimpan proyek ini di profil Anda.
-
----
-
-## 📈 Star History
-
+### Star History
 <a href="https://star-history.com/#Penak1/PenakPOS&Date">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=Penak1/PenakPOS&type=Date&theme=dark" />
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=Penak1/PenakPOS&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=Penak1/PenakPOS&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=Penak1/PenakPOS&type=Date" width="80%" />
  </picture>
 </a>
-## 📊 Statistik Repositori
 
-| Kategori | Status |
+<br/>
+
+| Metrik Repositori | Status |
 | :--- | :--- |
-| **Total Downloads** | ![GitHub All Releases](https://img.shields.io/github/downloads/Penak1/PenakPOS/total?color=blue&logo=github) |
-| **Versi Terbaru** | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Penak1/PenakPOS?color=orange&logo=github) |
-| **Ukuran Repositori** | ![GitHub repo size](https://img.shields.io/github/repo-size/Penak1/PenakPOS?color=red&logo=github) |
-| **Terakhir Update** | ![GitHub last commit](https://img.shields.io/github/last-commit/Penak1/PenakPOS?logo=github) |
+| **Total Unduhan** | ![GitHub All Releases](https://img.shields.io/github/downloads/Penak1/PenakPOS/total?color=blue&logo=github) |
+| **Versi Stabil** | ![GitHub release](https://img.shields.io/github/v/release/Penak1/PenakPOS?color=orange&logo=github) |
+| **Ukuran Data** | ![GitHub repo size](https://img.shields.io/github/repo-size/Penak1/PenakPOS?color=red&logo=github) |
+| **Update Terakhir** | ![GitHub last commit](https://img.shields.io/github/last-commit/Penak1/PenakPOS?logo=github) |
 
 </div>
 
 ---
 
+## 📞 Hubungi Dukungan Teknis
+
 <div align="center">
 
-## 📞 Hubungi Kami
-
-<br/>
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Sekarang-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628996654500)
-[![GitHub](https://img.shields.io/badge/GitHub-Penak1%2FPenakPOS-181717?style=for-the-badge&logo=github)](https://github.com/Penak1/PenakPOS)
-[![Lynk.id](https://img.shields.io/badge/Lynk.id-PenakPOS-FF6B35?style=for-the-badge&logo=linktree&logoColor=white)](https://lynk.id/penakofficial)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628996654500)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Penak1/PenakPOS)
+[![Lynk.id](https://img.shields.io/badge/Lynk.id-FF6B35?style=for-the-badge&logo=linktree&logoColor=white)](https://lynk.id/penakofficial)
 
 <br/>
 
@@ -240,9 +167,8 @@ Jika **PenakPOS** membantu bisnis Anda, mohon berikan bintang sebagai bentuk duk
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,50:2E5B9A,100:1a3a6b&height=120&section=footer" width="100%"/>
 
-_© 2026 PenakPOS. All rights reserved._
-_⚠️ Proyek ini bersifat PRIVAT. Dilarang menyalin atau mendistribusikan tanpa izin._
+*© 2026 PenakPOS. All rights reserved.* *⚠️ **Confidentiality Notice:** Proyek ini bersifat privat. Dilarang mendistribusikan ulang tanpa izin tertulis.*
 
-Made with ❤️ by **PenakPOS Team**
+**Developed with ❤️ by PenakPOS Team**
 
 </div>
