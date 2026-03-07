@@ -195,15 +195,14 @@
 
 Jika PenakPOS membantu bisnis Anda, mohon berikan bintang dan rekomendasikan ke teman-teman!
 
-## Star History
+## 📊 Statistik Repositori
 
-<a href="https://www.star-history.com/?repos=Penak1%2FPenakPOS&type=date&logscale=&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=Penak1/PenakPOS&type=date&theme=dark&logscale&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=Penak1/PenakPOS&type=date&logscale&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=Penak1/PenakPOS&type=date&logscale&legend=top-left" />
- </picture>
-</a>
+| Kategori | Status |
+| :--- | :--- |
+| **Total Downloads** | ![GitHub All Releases](https://img.shields.io/github/downloads/Penak1/PenakPOS/total?color=blue&logo=github) |
+| **Versi Terbaru** | ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Penak1/PenakPOS?color=orange&logo=github) |
+| **Ukuran Repositori** | ![GitHub repo size](https://img.shields.io/github/repo-size/Penak1/PenakPOS?color=red&logo=github) |
+| **Terakhir Update** | ![GitHub last commit](https://img.shields.io/github/last-commit/Penak1/PenakPOS?logo=github) |
 
 </div>
 
