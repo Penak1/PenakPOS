@@ -133,12 +133,13 @@
 
 <div align="center">
 
-### Star History
-<a href="https://star-history.com/#Penak1/PenakPOS&Date">
+## Star History
+
+<a href="https://www.star-history.com/?type=date&repos=Penak1%2FPenakPOS">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=Penak1/PenakPOS&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=Penak1/PenakPOS&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=Penak1/PenakPOS&type=Date" width="80%" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Penak1/PenakPOS&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Penak1/PenakPOS&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Penak1/PenakPOS&type=date&legend=top-left" />
  </picture>
 </a>
 
