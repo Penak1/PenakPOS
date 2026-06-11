@@ -135,13 +135,7 @@
 
 ## Star History
 
-<a href="https://www.star-history.com/?type=date&repos=Penak1%2FPenakPOS">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Penak1/PenakPOS&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Penak1/PenakPOS&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Penak1/PenakPOS&type=date&legend=top-left" />
- </picture>
-</a>
+[![Star History Chart](https://api.star-history.com/chart?repos=Penak1/PenakPOS&type=date&legend=top-left)](https://www.star-history.com/?repos=Penak1%2FPenakPOS&type=date&legend=top-left)
 
 <br/>
 
